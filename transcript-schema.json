@@ -1,0 +1,17 @@
+{
+  "language": "ml",
+  "timestamp_precision": "word",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.42,
+      "text": "ഉദാഹരണവാക്ക്",
+      "speaker": "speaker_1",
+      "confidence": 0.95,
+      "emotion": "neutral",
+      "emphasis": false,
+      "review_note": ""
+    }
+  ],
+  "notes": "Example schema only. Never treat example words or timestamps as a real transcript."
+}
